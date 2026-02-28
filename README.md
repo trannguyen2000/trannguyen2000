@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Tran Nguyen
 
 <!--
 **trannguyen2000/trannguyen2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
