@@ -6,7 +6,7 @@ Recent Public Health graduate and Google Data Analytics Certified professional w
 
 Seeking a Data Analyst role where I can apply my skills in Excel, and Tableau to analyze complex datasets, uncover meaningful insights, and support data-driven decision-making. I am motivated to continuously expand my technical expertise and contribute to improving operational efficiency and business performance.
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-nguyen-b36685291/)
 
