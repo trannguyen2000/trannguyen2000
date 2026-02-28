@@ -1,7 +1,7 @@
 ## Hello, I'm Tran Nguyen
 
 Recent Public Health graduate and Google Data Analytics Certified professional with hands-on experience in healthcare operations, insurance processing, and data analysis. Proficient in Excel and Tableau, with foundational SQL skills, I am passionate about expanding my expertise in data analytics and leveraging data to drive informed decision-making.
-
+www.linkedin.com/in/tran-nguyen-b36685291
 SKILLS
 - Excel
 - Tablaeu
