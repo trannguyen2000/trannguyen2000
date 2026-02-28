@@ -1,5 +1,6 @@
 ## Hello, I'm Tran Nguyen
 
+Recent Public Health graduate and Google Data Analytics Certified professional with hands-on experience in healthcare operations, insurance processing, and data analysis. Proficient in Excel and Tableau, with foundational SQL skills, I am passionate about expanding my expertise in data analytics and leveraging data to drive informed decision-making.
 <!--
 **trannguyen2000/trannguyen2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
