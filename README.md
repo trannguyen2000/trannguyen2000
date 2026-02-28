@@ -4,11 +4,15 @@ Recent Public Health graduate and Google Data Analytics Certified professional w
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-nguyen-b36685291/)
+Email: Trannguyen1738@gmail.com
 
 SKILLS
 - Excel
 - Tablaeu
 - SQL
+
+  PROJECTS
+  
 <!--
 **trannguyen2000/trannguyen2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
