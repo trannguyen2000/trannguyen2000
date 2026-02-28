@@ -2,7 +2,7 @@
 
 Recent Public Health graduate and Google Data Analytics Certified professional with hands-on experience in healthcare operations, insurance processing, and data analysis. Proficient in Excel and Tableau, with foundational SQL skills, I am passionate about expanding my expertise in data analytics and leveraging data to drive informed decision-making.
 
-OBJECTIVE
+## OBJECTIVE
 
 Seeking a Data Analyst role where I can apply my skills in Excel, and Tableau to analyze complex datasets, uncover meaningful insights, and support data-driven decision-making. I am motivated to continuously expand my technical expertise and contribute to improving operational efficiency and business performance.
 
@@ -12,7 +12,7 @@ Seeking a Data Analyst role where I can apply my skills in Excel, and Tableau to
 
 Email: Trannguyen1738@gmail.com
 
-SKILLS
+## SKILLS
 - Excel
 - Tablaeu
 - SQL
